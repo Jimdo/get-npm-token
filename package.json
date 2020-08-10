@@ -1,5 +1,5 @@
 {
-  "name": "get-npm-token",
+  "name": "@jimdo/get-npm-token",
   "description": "exchange npm credentials for an api token",
   "version": "0.0.0-placeholder",
   "author": "Stephan Bönnemann <stephan@boennemann.me>",
